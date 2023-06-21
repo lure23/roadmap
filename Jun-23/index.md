@@ -56,3 +56,33 @@ Repeat Test 1, with the 5kg pulling *upwards* in C1.
 Based on the video, one should be able to replicate the work.
 -->
 
+## Learnings
+
+>In any project, it's important to realize what was learned.
+
+### Supports within pipes
+
+**Don't Do Them!**
+
+When pipes were angled enough, the slicer (Cura) created supports within them. I sliced the S3 prints and 2 Connected prints with slightly different settings, it seems. One is is really difficult to remove ("normal supports") whereas the other ("tree supports?") can be jiggled and pulled out - with the help of a screw at times..
+
+Anyways, I doubt they were actually even needed. Could just remove supports manually when they occur within the pipes, and proof before epoxying that the rods fit in. Likely, only unevenness would be caused and since it's on the inside, it doesn't matter.
+
+
+### Sanding - lesson in reduction of steps & tools!
+
+:)
+
+I had thought to:
+
+- glue sandpaper to a stick of wood, and run a drilling machine to roughen the insides of the 3D-printed pipes
+
+Quickly noticed:
+
+- [x] machine is not necessary - hand turning gives better control
+- [x] gluing is not necessary (it came off) - just wrap sand paper around the stick and roll!
+- [ ] **sanding** might not be necessary?
+
+   Need to test this, by doing two joints, one with and one without sanding.
+   
+   The grooves between the 3D-printed layers may turn out to be enough to keep the gluing strong.
