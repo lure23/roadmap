@@ -15,8 +15,9 @@ gitGraph
     checkout track
     merge bogey
     commit id: "Semi-arc (curved)"
-    
+
 ```
+
 
 - [Jun'23](./Jun-23/index.md)
 
