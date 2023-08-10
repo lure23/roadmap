@@ -136,8 +136,8 @@ Watch the attached video where I explain the process and why we're doing this.
 
 #### Rolling feel on aluminum rails
 
-- [ ] How are the wheel sizes - what sizes would be suitable, going further?
-- [ ] Is Aluminum an okay material for rails
+- [x] How are the wheel sizes - what sizes would be suitable, going further?
+- [x] Is Aluminum an okay material for rails
 
 #### Suitable sizes of rails, and their relative distances
 
@@ -165,4 +165,5 @@ Feedback on this work can be sent to [`demo@outstanding.earth`](mailto:demo@outs
 
 - Onshape > [July 2023 model](https://cad.onshape.com/documents/f4329ece7fe15deaef06a130/w/91f2aeeb91807f537f9be8e4/e/075d6c6fe0f4db1ad2330aff)
 
-- Youtube ... > [July 2023 episode]() *<-- tbd. to be filmed*
+- Youtube > [July 2023 episode](https://youtu.be/gkYPj3qKrLY)
+
