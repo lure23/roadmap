@@ -59,9 +59,22 @@ In particular, looking for:
 |Video director|Someone who knows how to make short, engaging videos. Editing them is a chore to me - but I can be in the loop, helping out. The work would involve making one video per month.|
 
 
+## Books
+
+You can replicate all the sessions without doing excessive training outside of this repo and the Youtube videos. However, if you wish, here are some sources to deepen your knowledge.  The author benefited from them.
+
+|Title, authors etc.|ISBN|Comments|
+|---|---|---|
+|[Komposiittirakenteet 2. painos](https://www.lujitemuovi.fi) by Saarela, Airasmaa; 2007|978-951-9271-28-6|Amazing book on all composites, in Finnish. Free online.|
+|[MGMT : principles of management 9th ed.](https://www.amazon.com/MGMT-12-Principles-Management-Williams-dp-0357137728/dp/0357137728/ref=dp_ob_title_bk) (Amazon.com) by Chuck Williams; 2015|978-1-305-66158-5|Any collaboration requires management. Even participating in one.|
+|[Handbook of Structural Engineering 2nd ed.](https://www.amazon.com/Handbook-Structural-Engineering-Wai-Fah-Chen/dp/0849315697) (Amazon.com) by Chen, Lui; 2005|0-8493-1569-7|Chapter 24, "Space Frame Structures"|
+
+These books were available in the [Aalto Learning Centre](https://www.aalto.fi/en/learning-centre) (Espoo, Finland).
+
+
 ## Contact
 
-Email to `demo@outstanding.earth` to 
+Email to `demo@outstanding.earth`.
 
 <!--
 ## References

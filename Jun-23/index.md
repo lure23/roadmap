@@ -3,11 +3,11 @@
 ## Aim
 
 ![](.images/semi-arc.png)
-*Image 1. Semi-arc (straight) model*
+*Image 1. Semi-arc CAD model (Fusion 360)*
 
 To design and build the semi-arch shown in Image 1.
 
-The model is meant for studying the manufacturability using carbon fibre tubes, fitted with 3D-printed parts to aluminum main rails and arc.
+The model is meant for studying the manufacturability using carbon fibre tubes, fitted with 3D-printed parts to aluminum main rails and support arc.
 
 ## Tests
 
@@ -58,15 +58,17 @@ Based on the video, one should be able to replicate the work.
 
 ## Learnings
 
->In any project, it's important to realize what was learned.
+In any project, it's important to realize what was learned.
 
-### Supports within pipes
+### Avoid supports within pipes - or use 'tree supports' option (Cura slicer)
 
-**Don't Do Them!**
+**Spot them in the slicer and avoid!**
 
-When pipes were angled enough, the slicer (Cura) created supports within them. I sliced the S3 prints and 2 Connected prints with slightly different settings, it seems. One is is really difficult to remove ("normal supports") whereas the other ("tree supports?") can be jiggled and pulled out - with the help of a screw at times..
+When pipes were angled enough, the slicer (Cura) created supports within them. I sliced for the S3 prints and 2 Connected (different models of 3D printers) with slightly different settings. One was rather impossible to remove ("normal supports"?) whereas the other ("tree supports?") can be jiggled and pulled out - with the help of a screw at times..
 
 Anyways, I doubt they were actually even needed. Could just remove supports manually when they occur within the pipes, and proof before epoxying that the rods fit in. Likely, only unevenness would be caused and since it's on the inside, it doesn't matter.
+
+>I ended up drilling the hard-to-remove supports out (instead of reprinting about 20+ parts). It worked. Lesson: drill will low rounds; high rpms melted one pipe around the drill!
 
 
 ### Sanding - lesson in reduction of steps & tools!
@@ -86,3 +88,18 @@ Quickly noticed:
    Need to test this, by doing two joints, one with and one without sanding.
    
    The grooves between the 3D-printed layers may turn out to be enough to keep the gluing strong.
+
+
+### Design for (mass) manufacturing!!
+
+Originally, I tried to be "clever" by varying the distances between the junction points a bit. The idea being to avoid harmonics from forming.
+
+That is **pure over-engineering** and since - as it later turned out - I lost the id's "embedded" on each part, I ended up checking by **measurement** which printed piece was which.
+
+Oh well, just... don't outsmart yourself!
+
+
+### One survives mistakes
+
+The outcome seems rather nice and hopefully, we'll get the results. This despite the process not having been perfect. It never needs to be - just close enough!!!
+
